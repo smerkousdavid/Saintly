@@ -1,0 +1,4 @@
+config SAINTLY_CUSTOM
+	tristate "Saintly pseudo wireless audio driver"
+	depends on GENERIC_GPIO
+	select SAINTLY

@@ -1,0 +1,1 @@
+obj-${CONFIG_SAINTLY_CUSTOM} += saintly.o
